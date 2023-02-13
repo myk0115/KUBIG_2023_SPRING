@@ -1,3 +1,5 @@
+<h1> KUBIG 2023 Winter Computer Vision </h1> 
+
 분반장: 장수혁(산업경영공학부 18), 최경석(산업경영공학부 18)
 
 [분반 소개 및 스터디 목표]
@@ -21,11 +23,11 @@ How 진행방식!
 
 교재: 분반장 제작 PPT
 
-<커리큘럼>
-1주차: OT
-2주차: Basic CNN + Image classification
-3주차: Object Detection
-4주차: Image Segmentation
-5주차: Vision Transformer
-6주차: GAN
-7주차: Self-supervised Learning
+[커리큘럼]
+-1주차: OT
+-2주차: Basic CNN + Image classification
+-3주차: Object Detection
+-4주차: Image Segmentation
+-5주차: Vision Transformer
+-6주차: GAN
+-7주차: Self-supervised Learning
