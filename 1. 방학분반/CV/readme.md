@@ -24,10 +24,10 @@
 <h2> 교재: 분반장 제작 PPT </h2>
 
 <h2> 커리큘럼 </h2>
--1주차: OT
--2주차: Basic CNN + Image classification
--3주차: Object Detection
--4주차: Image Segmentation
--5주차: Vision Transformer
--6주차: GAN
--7주차: Self-supervised Learning
+- 1주차: OT
+- 2주차: Basic CNN + Image classification
+- 3주차: Object Detection
+- 4주차: Image Segmentation
+- 5주차: Vision Transformer
+- 6주차: GAN
+- 7주차: Self-supervised Learning
