@@ -46,9 +46,10 @@ Colab Pro+
 - fastapi Backend 구동
 - fine-tuned model load
 
-2. main_code_v2.py
+2. main_code_v2.ipynb
 - Crawling
 - 문서 생성 요약
+- 위 두 태스크 실행 예시 결과 포함
 
 3. front1, front2, koogle
 - Frontend 디자인
