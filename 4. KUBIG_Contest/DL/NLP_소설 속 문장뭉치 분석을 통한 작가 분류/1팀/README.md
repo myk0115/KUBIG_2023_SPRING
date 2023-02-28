@@ -15,10 +15,8 @@ https://dacon.io/competitions/open/235670/overview/description
     2. 표제어 추출(lemmatation)/ 어간 추출(Stem)
 
 ## 모델
-    CNN
-    RNN 기반: lstm, gru, bi-lstm
-    융합: Bi-lstm + CNN
+    1. CNN
+    2. RNN 기반: lstm, gru, bi-lstm
+    3. 융합: Bi-lstm + CNN
     
 ## Result
-### 워드클라우드로 리뷰 시각화 및 의미 도출
-
