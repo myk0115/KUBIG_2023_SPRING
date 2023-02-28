@@ -20,3 +20,4 @@ https://dacon.io/competitions/open/235670/overview/description
     - 융합: Bi-lstm + CNN
     
 ### **4. RESULT**
+    - Bi-lstm > Bi-lstm + CNN > lstm > gru > CNN
