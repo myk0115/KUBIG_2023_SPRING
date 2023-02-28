@@ -1,6 +1,6 @@
 #  🔥 개인 투자자를 위한 기업 최신 뉴스 정보 요약 서비스 🔥
 
-<img width="60%" src="https://user-images.githubusercontent.com/97013710/210364441-89d27d3f-e22e-4156-ad14-b1a73665dd46.jpeg">
+<img width="1214" alt="문서요약 서비스화면" src="https://user-images.githubusercontent.com/87636737/221851933-fef54a74-8cd7-4d9d-b553-a9064f9223d7.png">
 
 기업의 비재무적 정보(최신 기사)를 손쉽게 얻을 수 있는 서비스를 개발
 
@@ -42,6 +42,14 @@ Colab Pro+
 
 
 ## Code Descriptions
-1. DACON_AISR_TRIAL
-- EDSR, SRGAN, SWINIR
+1. main.py
+- fastapi Backend 구동
+- fine-tuned model load
+
+2. main_code_v2.py
+- Crawling
+- 문서 생성 요약
+
+3. front1, front2, koogle
+- Frontend 디자인
 
