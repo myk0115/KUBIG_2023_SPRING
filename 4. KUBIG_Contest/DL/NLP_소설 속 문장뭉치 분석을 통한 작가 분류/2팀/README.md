@@ -20,7 +20,7 @@ https://dacon.io/competitions/open/235670/overview/description
 
 ## 4. Result
 - LogLoss: XGBoost > Softvoting > Random Forest > LSTM
-- Accuracy: Softvoting > XGBoost > Random Forest > LSTM
+- Accuracy: XGBoost > Random Forest > LSTM
 - 결과 분석:
   * 딥러닝: 동일 인물에 대한 소설 -> 문맥을 파악하는 과정에서 과적합 발생  
   * 머신러닝: 특성공학을 통해 유의미한 피쳐 생성 -> 과적합 해결
